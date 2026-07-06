@@ -41,6 +41,16 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that 
 
 ---
 
+## 🌐 Live Links
+
+### 🚀 Frontend (Vercel)
+https://stock-trading-app-topaz.vercel.app
+
+### ⚙️ Backend API (Render)
+https://stock-trading-app-3-j0af.onrender.com
+
+--
+
 # 📂 Project Structure
 
 ```
