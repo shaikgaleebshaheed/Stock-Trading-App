@@ -18,6 +18,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
+      "https://stock-trading-app-topaz.vercel.app",
     ],
     credentials: true,
   })
